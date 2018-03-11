@@ -1,5 +1,6 @@
 *.DS_Store
 *.pyc
 web/tmp/
+web/certs/
 web/example/
 web/static/img/elements/
