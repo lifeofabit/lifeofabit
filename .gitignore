@@ -1,0 +1,5 @@
+*.DS_Store
+*.pyc
+web/tmp/
+web/example/
+web/static/img/elements/
